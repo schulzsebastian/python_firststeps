@@ -1,0 +1,23 @@
+--------------------
+Euro.com.pl:
+Honor 4X (biały) 849.00
+Honor 4X (czarny) 849.00
+Meizu M1 Note 16 GB (biały) 899.00
+--------------------
+Saturn.pl:
+MICROSOFT Lumia 640 LTE Niebieski 669.00
+MICROSOFT Lumia 640 LTE Biały 669.00
+MICROSOFT Lumia 640 LTE Czarny 669.00
+MICROSOFT Lumia 640 LTE Pomarańczowy 699.00
+ALCATEL One Touch Idol 2 S 6050Y Brązowy 799.00
+ALCATEL One Touch Idol 2 S 6050Y Biały 799.00
+SONY Xperia T3 Biały 849.00
+LG G3 s Biały 849.00
+LG G3 s Złoty 849.00
+SONY Xperia T3 Fioletowy 849.00
+LG G3 s Tytanowy 849.00
+SONY Xperia T3 Czarny 879.00
+MICROSOFT Lumia 640 XL LTE Czarny 999.00
+MICROSOFT Lumia 640 XL LTE Biały 999.00
+MICROSOFT Lumia 640 XL LTE Pomarańczowy 999.00
+--------------------
